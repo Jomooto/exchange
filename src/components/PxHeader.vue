@@ -7,7 +7,7 @@
           <router-link
             v-bind:to="{ name: 'home' }"
             class="font-semibold text-xl tracking-tight"
-            >Platzi Exchange</router-link
+            > Exchange</router-link
           >
         </div>
         <div
